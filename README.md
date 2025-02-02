@@ -1,7 +1,7 @@
 # Timeroni
 # Pasta Timer with Barilla Playlists 🍝🎶
 
-Pasta Timer with Barilla Playlists is a fun and interactive web application that combines the joy of cooking with the power of music. The app helps users cook pasta perfectly by starting a timer based on the chosen pasta type and playing a curated Spotify playlist from Barilla that matches the cooking time. Whether you're boiling spaghetti, penne, or fusilli, this app ensures your pasta is cooked to perfection while you enjoy a musical experience tailored to your cooking session.
+Timeroni is a fun and interactive web application that combines the joy of cooking with the power of music. The app helps users cook pasta perfectly by starting a timer based on the chosen pasta type and playing a curated Spotify playlist from Barilla that matches the cooking time. Whether you're boiling spaghetti, penne, or fusilli, this app ensures your pasta is cooked to perfection while you enjoy a musical experience tailored to your cooking session.
 
 ---
 
