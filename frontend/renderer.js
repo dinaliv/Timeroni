@@ -28,4 +28,6 @@ function startTimer(duration) {
             alert('Pasta is ready!');
         }
     }, 1000);
+
+    
 }
