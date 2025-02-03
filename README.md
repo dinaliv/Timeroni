@@ -1,33 +1,55 @@
-# Timeroni
-# Pasta Timer with Barilla Playlists 🍝🎶
+# Timeroni 🍝🎶
 
-Timeroni is a fun and interactive web application that combines the joy of cooking with the power of music. The app helps users cook pasta perfectly by starting a timer based on the chosen pasta type and playing a curated Spotify playlist from Barilla that matches the cooking time. Whether you're boiling spaghetti, penne, or fusilli, this app ensures your pasta is cooked to perfection while you enjoy a musical experience tailored to your cooking session.
+---
+
+A fun and interactive desktop app built with **Electron.js** that helps you cook pasta perfectly while enjoying music from **Barilla's Spotify playlists**. Choose your pasta type, start the timer, and play curated playlists to make your cooking experience delightful!
 
 ---
 
 ## Features ✨
 
-1. **Pasta Selection**: Choose from popular pasta types like Spaghetti, Penne, and Fusilli.
-2. **Automatic Timer**: Start a countdown timer based on the cooking time of the selected pasta.
-3. **Spotify Playlists**: Play Barilla's curated Spotify playlists that match the cooking time of your pasta.
-4. **Interactive UI**: A simple and intuitive interface for selecting pasta, starting the timer, and controlling playback.
-5. **Spotify Integration**: Seamless integration with Spotify's Web API and Web Playback SDK for authenticating users and playing music.
+- **Pasta Timer**: Select your pasta type, and the app will start a countdown for the perfect cooking time.
+- **Spotify Integration**: Play music from Barilla's official Spotify playlists directly in the app.
+- **User-Friendly Interface**: Simple and intuitive UI for a seamless experience.
+- **Cross-Platform**: Works on Windows, macOS, and Linux.
 
 ---
 
 ## How It Works 🛠️
 
-1. **Choose Your Pasta**: Select the type of pasta you're cooking (e.g., Spaghetti, Penne, Fusilli).
-2. **Start Cooking**: Click "Start Cooking" to begin the timer and play the corresponding Barilla playlist.
-3. **Enjoy the Music**: Listen to a curated playlist while your pasta cooks.
-4. **Timer Completion**: When the timer ends, your pasta is ready, and the music stops.
+1. **Choose Your Pasta**: Select the type of pasta you're cooking (e.g., spaghetti, penne, farfalle).
+2. **Start the Timer**: The app will automatically set a timer based on the cooking time for your selected pasta.
+3. **Play Music**: Click the "Play Music" button to access Barilla's Spotify playlists and enjoy music while you cook.
+4. **Get Notified**: When the timer ends, the app will notify you that your pasta is ready!
 
 ---
 
 ## Technologies Used 💻
 
-- **Frontend**: HTML, CSS, JavaScript (or React for a more dynamic UI).
-- **Backend**: Node.js with Express (for Spotify API authentication and playlist fetching).
-- **Spotify Web API**: For fetching Barilla's playlists and controlling playback.
-- **Spotify Web Playback SDK**: For playing music directly in the browser.
-- **Hosting**: GitHub Pages, Netlify, or Vercel for the frontend; Heroku or Render for the backend.
+- **Electron.js**: For building the desktop app.
+- **Spotify Web API**: For fetching and playing Barilla's playlists.
+- **HTML/CSS/JavaScript**: For the frontend interface and logic.
+- **Node.js**: For backend logic (if needed for Spotify authentication).
+
+# Acknowledgments 🙏
+
+This project was made possible thanks to the following tools, libraries, and resources. We are grateful to the developers and communities behind them for their incredible work.
+
+---
+
+## Tools and Libraries
+
+- **[Electron.js](https://www.electronjs.org/)**  
+  For building the cross-platform desktop app.
+
+- **[Spotify Web API](https://developer.spotify.com/documentation/web-api/)**  
+  For integrating Spotify playlists and music playback.
+
+- **[Node.js](https://nodejs.org/)**  
+  For backend logic and runtime environment.
+
+- **[Spotify Web Playback SDK](https://developer.spotify.com/documentation/web-playback-sdk/)**  
+  For enabling music playback directly in the app.
+
+- **[Barilla](https://www.barilla.com/)**  
+  For their amazing Spotify playlists that inspired this project.
