@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dinaliv/Timeroni/issues"
   },
-  "homepage": "https://github.com/dinaliv/Timeroni#readme"
+  "homepage": "https://github.com/dinaliv/Timeroni#readme",
+  "devDependencies": {
+    "electron": "^34.0.2"
+  }
 }
