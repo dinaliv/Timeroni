@@ -1,6 +1,11 @@
 import { app, BrowserWindow } from 'electron';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import started from 'electron-squirrel-startup';
+
+// Convert the module URL to a file path and get the directory name
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
 if (started) {
