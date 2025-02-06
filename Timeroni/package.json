@@ -30,5 +30,6 @@
   "license": "MIT",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.1"
-  }
+  },
+  "type": "module"
 }
