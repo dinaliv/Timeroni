@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 if (started) {
   app.quit();
 }
-
+console.log("Starting Electron app...");
 const createWindow = () => {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
