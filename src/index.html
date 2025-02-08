@@ -4,10 +4,27 @@
     <meta charset="UTF-8" />
     <title>Hello World!</title>
     <link rel="stylesheet" href="index.css" />
-    <scripts defer src="render.js"></scripts> <!-- defer means that the scripts loads after html file-->
+    <script defer src="render.js"></script> <!-- defer means that the scripts loads after html file-->
   </head>
   <body>
-    <h1>💖 привет!</h1>
+    <h1>💖 Timeroni </h1>
     <p>Welcome to your Electron application.</p>
+    <!-- menu of pasta types -->
+    <p>Select your pasta type to start the timer:</p>
+    <div id="menu">
+      <!-- penne rigate - 11 mins -->
+      <button id="penne-rigate">Penne Rigate</button>
+      <!-- spaghetti - 9 mins -->
+      <button id="spaghetti">Spaghetti</button>
+      <!-- fusilli - 11 mins -->
+      <button id="fusilli">Fusilli</button>
+      <!-- linguine - 10 mins -->
+      <button id="linguine">Linguine</button>
+    </div>
+    <div id="timer-display">00:00</div>
+    
+    
+    
+    
   </body>
 </html>
