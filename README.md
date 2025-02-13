@@ -25,7 +25,7 @@ A fun and interactive desktop app built with **Electron** that helps you cook pa
 
 ## Technologies Used 💻
 
-- **Electron.js**: For building the desktop app.
+- **Electron**: For building the desktop app.
 - **Spotify Web API**: For fetching and playing Barilla's playlists.
 - **HTML/CSS/JavaScript**: For the frontend interface and logic.
 - **Node.js**: For backend logic (if needed for Spotify authentication).
