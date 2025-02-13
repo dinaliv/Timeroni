@@ -1,7 +1,7 @@
 # Timeroni 🍝🎶
 
 
-A fun and interactive desktop app built with **Electron.js** that helps you cook pasta perfectly while enjoying music from **Barilla's Spotify playlists**. Choose your pasta type, start the timer, and play curated playlists to make your cooking experience delightful!
+A fun and interactive desktop app built with **Electron** that helps you cook pasta perfectly while enjoying music from **Barilla's Spotify playlists**. Choose your pasta type, start the timer, and play curated playlists to make your cooking experience delightful!
 
 ---
 
@@ -43,7 +43,7 @@ This project was made possible thanks to the following tools, libraries, and res
 - **[Barilla](https://www.barilla.com/)**  
   For their amazing Spotify playlists that inspired this project.
   
-- **[Electron.js](https://www.electronjs.org/)**  
+- **[Electron](https://www.electronjs.org/)**  
   For building the cross-platform desktop app.
 
 - **[Spotify Web API](https://developer.spotify.com/documentation/web-api/)**  
